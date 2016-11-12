@@ -3,6 +3,7 @@ This is an unsupervised clustering algorithm to group geospatial data, based on 
 
 # Benchmarks: 
 # uniformly distributed over n x n space 
+best
 ![alt tag](https://raw.githubusercontent.com/tunamonster/geo_cluster/master/img/best-200.png)
 ![alt tag](https://raw.githubusercontent.com/tunamonster/geo_cluster/master/img/worst-200.png)
 
