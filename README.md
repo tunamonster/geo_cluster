@@ -1,9 +1,8 @@
 # geo_cluster
 This is an unsupervised clustering algorithm to group geospatial data, based on a euclidean KNN approach. It randomly resamples starting points and returns the configuration with the lowest distance score.
 
-# Benchmarks: 
+# Benchmarks best and worst distance scores: 
 # uniformly distributed over n x n space 
-best
 ![alt tag](https://raw.githubusercontent.com/tunamonster/geo_cluster/master/img/best-200.png)
 ![alt tag](https://raw.githubusercontent.com/tunamonster/geo_cluster/master/img/worst-200.png)
 
